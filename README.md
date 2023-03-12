@@ -14,5 +14,5 @@ GTK3-classic patches specific to the XFCE desktop environment
 
 ## Usage
 
-Apply requisite patches AFTER applying gtk3-classic patches.
+Apply requisite patches AFTER applying [gtk3-classic](https://github.com/lah7/gtk3-classic) patches.
 
